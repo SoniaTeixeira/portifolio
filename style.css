@@ -1,0 +1,85 @@
+body {
+    background-color:rgb(247, 229, 203);
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+    float: left;
+    width: 350px;
+}
+
+.menu {
+    float: right;
+    position: relative;
+    text-align: center;
+    line-height: 125px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.menu nav a:hover {
+    color: #5c3b0a;
+}
+
+.menu nav a {
+    margin-right: 20px;
+    color: #af7621;
+    text-decoration: none;
+}
+
+header {
+    width: 80%;
+    height: 125px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.banner {
+    width: 100%;
+    height: 500px;
+    background: url("img/header-banner.jpg");
+    background-size: auto 500px;
+}
+
+.banner h2 {
+    padding-top: 150px;
+    padding-left: 380px;
+}
+
+.banner p {
+    padding-left: 380px;
+}
+
+.banner button {
+    color: #ffffff;
+    background-color: #af7621;
+    font-size: 19px;
+    border-radius: 15px;
+    padding: 15px 50px;
+    letter-spacing: 6px;
+    cursor: pointer;
+    margin-left: 380px;
+}
+.banner button:hover {
+    color: #ffffff;
+    background-color: #f0b865;
+}
+
+.quemsoueu {
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #724b11;
+    margin-top: 50px;
+}
+
+.quemsoueu h2 {
+    font-size: 32px;
+}
+
+.quemsoueu p {
+    font-size: 26px;
+    color: #946724;
+}
