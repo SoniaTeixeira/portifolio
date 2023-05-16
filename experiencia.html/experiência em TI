@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang=pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https: //fonts.googleapis.com/css2?family= Poppins & display=swap"
+    rel=" stylesheet"
+  />
+  <title>Experiência Geral e em Tecnologia da Informação</title>
+</head>
+
+<body>
+  <!-- ESSE É O CABEÇALHO DO SITE  -->
+  <div class="background-header">
+    <header>
+      <div class="logo">
+        <h1>Portifólio Prof. SÔNIA TEIXEIRA</h1>
+      </div>
+      <div class="menu">
+        <nav>
+          <a href="">Página Inicial</a>
+          <a href="">Meu Background</a>
+          <a href="">Experiências</a>
+          <a href="contato.html">Contato</a>
+        </nav>
+      </div>
+    </header>
+  </div>
+
+
+<!--Esta é a experiência-->
+
+            <h2>Vantagens:</h2>
+            <ul>
+            <li>Simplicidade: HTML é uma linguagem de marcação relativamente fácil de aprender e usar. Não é necessário ter conhecimento avançado em programação para criar uma página web básica usando HTML.</li>
+            <li>Compatibilidade: a maioria dos navegadores web suporta HTML, o que significa que suas páginas web serão acessíveis por uma grande variedade de dispositivos e sistemas operacionais.</li>
+            <li>Flexibilidade: HTML é uma linguagem flexível que permite criar diferentes tipos de páginas, desde páginas estáticas até páginas dinâmicas com recursos avançados.</li>
+            <li>SEO-friendly: ao usar as melhores práticas de SEO (Search Engine Optimization), o HTML permite que o conteúdo de suas páginas seja facilmente indexado pelos motores de busca, o que pode aumentar a visibilidade do seu site na Internet.</li>
+            </ul>
+
+            <h2>Desvantagens:</h2>
+            <ul>
+            <li>Limitações: o HTML é limitado em relação à criação de páginas web interativas e dinâmicas. É necessário usar outras tecnologias, como CSS e JavaScript, para adicionar recursos avançados às suas páginas web.</li>
+             <li>Dificuldade em manter: quando se trata de páginas da web mais complexas, a manutenção pode ser um desafio. Alterar o HTML pode ser complicado e demorado.</li>
+            <li>Segurança: o HTML não oferece recursos de segurança embutidos, o que significa que é necessário tomar medidas adicionais para proteger suas páginas da web contra ataques de hackers e outras ameaças de segurança.</li>
+            <li>Compatibilidade com dispositivos: embora a maioria dos navegadores web suporte HTML, as páginas criadas com HTML podem não ser otimizadas para dispositivos móveis, o que pode afetar a experiência do usuário em smartphones e tablets.</li>
+            </ul>
+
